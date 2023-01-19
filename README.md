@@ -2,4 +2,4 @@ This code takes an input images and outputs a black and white images where the e
 
 Skeleton code as well as image processing file was provided by the TA
 
-Uses image kernels and basic data structures
+Uses image kernels and basic structures
